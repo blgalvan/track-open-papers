@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "TRACK: Task Recovery And Checkpointing Knowledge — Open Papers"
+message: "If you use or cite TRACK, please cite these open papers."
+type: dataset
+authors:
+  - family-names: "Galván"
+    given-names: "Blas J."
+year: 2026
+abstract: "Open working papers introducing TRACK, a methodology for recoverable, auditable and checkpointed AI-agent planning."
+keywords:
+  - AI agents
+  - agentic workflows
+  - checkpointing
+  - recoverable planning
+  - task recovery
+  - RAMS
+  - maintenance engineering
+license: "proprietary"
