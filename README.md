@@ -23,6 +23,14 @@ This repository freely shares two working papers:
 * A free starter TRACK example.
 * Citation information.
 
+* ## Zenodo record
+
+The open TRACK papers are also archived on Zenodo:
+
+https://zenodo.org/records/20826174
+
+DOI: https://doi.org/10.5281/zenodo.20826174
+
 ## What is not included
 
 The complete applied TRACK plan library is not included in this public repository.
